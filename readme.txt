@@ -1,0 +1,1 @@
+This is the README file, which is created for the non emptying repository
